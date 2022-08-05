@@ -9,6 +9,6 @@ start_msg 	= 'Welcome' #/start
 help_msg 	= 'The bot can help you with tracking the crypto-currencies'  #/help
 about_msg 	= 'Bot for telegram created by Sargis Tovmasyan'	#/about
 #================================================================#
-success_msg 	= 'Message sents tov bots chat!'
+success_msg 	= 'Message sents to bots chat!'
 success_gr_msg 	= "Message sends to group chat!"
 #================================================================#
