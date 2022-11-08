@@ -1,14 +1,14 @@
 #============================= Info =============================#
-TOKEN = '713214588:AAGHFojC3fuSbnAsfS4wur0FfXexRcM293Y'
+TOKEN = 'TOKEN'
 
-CHAT_GROUP 	= '-1001441068751'
-CHAT_BOT 	= '536992397'
+CHAT_GROUP 	= 'CHAT_GROUP_ID'
+CHAT_BOT 	= 'CHAT_BOT_ID'
 #================================================================#
 #================= responce messages of commands ================#
 start_msg 	= 'Welcome' #/start
 help_msg 	= 'The bot can help you with tracking the crypto-currencies'  #/help
 about_msg 	= 'Bot for telegram created by Sargis Tovmasyan'	#/about
 #================================================================#
-success_msg 	= 'Message sents to bots chat!'
-success_gr_msg 	= "Message sends to group chat!"
+success_msg 	= 'Message sent to bots chat!'
+success_gr_msg 	= "Message sent to group chat!"
 #================================================================#
