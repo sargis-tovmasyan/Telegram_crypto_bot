@@ -41,12 +41,3 @@ Telegram Crypto Bot is a Telegram bot designed to track cryptocurrency prices an
     ```
 
 2. Add the bot to your Telegram chat and start receiving cryptocurrency updates.
-
-### Configuration
-
-The bot can be configured using environment variables or a configuration file. Ensure you set up the appropriate configurations for your API tokens.
-
-#### Example `.env` file:
-```env
-TELEGRAM_API_TOKEN=your_telegram_api_token
-CRYPTO_API_KEY=your_crypto_api_key
