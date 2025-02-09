@@ -27,10 +27,6 @@ Telegram Crypto Bot is a Telegram bot designed to track cryptocurrency prices an
     pip install -r requirements.txt
     ```
 
-3. Configure your environment variables:
-    - `TELEGRAM_API_TOKEN`: Your Telegram bot API token.
-    - `CRYPTO_API_KEY`: Your cryptocurrency API key.
-
 ### Usage
 
 1. Start the bot:
