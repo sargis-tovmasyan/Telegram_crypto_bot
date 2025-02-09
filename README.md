@@ -5,8 +5,6 @@ Telegram Crypto Bot is a Telegram bot designed to track cryptocurrency prices an
 ## Features
 
 - **Real-time Price Tracking**: Get the latest prices for various cryptocurrencies.
-- **Price Alerts**: Set alerts for specific price points and receive notifications.
-- **Market Data**: Access detailed market data and trends.
 
 ## Getting Started
 
@@ -14,7 +12,7 @@ Telegram Crypto Bot is a Telegram bot designed to track cryptocurrency prices an
 
 - [Python 3.8+](https://www.python.org/downloads/)
 - [Telegram Bot API Token](https://core.telegram.org/bots#botfather)
-- [Cryptocurrency API Key](e.g., [CoinGecko](https://www.coingecko.com/en/api))
+- [Cryptocurrency API Key]([cryptocompare](https://pypi.org/project/cryptocompare/0.2/)))
 
 ### Installation
 
